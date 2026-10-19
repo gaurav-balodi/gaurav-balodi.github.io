@@ -64,8 +64,4 @@ Modern Institute of Engineering & Technology, Shahabad (M), Kurukshetra Universi
 
 - **Email:** gaurav.balodi2@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/gaurav-balodi-04425857/
-- **GitHub:** https://github.com/YOUR_GITHUB_USERNAME
-
----
-
-> Replace `YOUR_GITHUB_USERNAME` with your GitHub username. Add links to real public repositories and case studies before presenting projects as completed work.
+- **GitHub:** https://github.com/gaurav-balodi
