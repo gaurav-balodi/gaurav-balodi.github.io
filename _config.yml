@@ -6,7 +6,7 @@ description: >-
   Senior Ruby on Rails Engineer with 12+ years of experience building,
   stabilizing, and scaling web applications, APIs, and distributed systems.
   Experienced in SaaS, FinTech, Healthcare, EdTech, and restaurant technology.
-url: "https://YOUR_GITHUB_USERNAME.github.io"
+url: "https://gaurav-balodi.github.io"
 baseurl: ""
 
 # Profile and contact
@@ -21,7 +21,7 @@ author:
   links:
     - label: "GitHub"
       icon: "fab fa-github"
-      url: "https://github.com/YOUR_GITHUB_USERNAME"
+      url: "https://github.com/gaurav-balodi"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/gaurav-balodi-04425857/"
