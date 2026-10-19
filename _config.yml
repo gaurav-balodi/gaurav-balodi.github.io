@@ -1,0 +1,59 @@
+# GitHub Pages / Jekyll configuration for Gaurav Balodi's portfolio.
+# Recommended theme: minima. If you choose a different theme, some settings may vary.
+title: "Gaurav Balodi"
+name: "Gaurav Balodi"
+description: >-
+  Senior Ruby on Rails Engineer with 12+ years of experience building,
+  stabilizing, and scaling web applications, APIs, and distributed systems.
+  Experienced in SaaS, FinTech, Healthcare, EdTech, and restaurant technology.
+url: "https://YOUR_GITHUB_USERNAME.github.io"
+baseurl: ""
+
+# Profile and contact
+author:
+  name: "Gaurav Balodi"
+  email: "gaurav.balodi2@gmail.com"
+  bio: >-
+    Senior Software Engineer specializing in Ruby on Rails, backend engineering,
+    API integrations, production reliability, system design, and scalable
+    cloud-based applications.
+  location: "India"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/YOUR_GITHUB_USERNAME"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/gaurav-balodi-04425857/"
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:gaurav.balodi2@gmail.com"
+
+# Jekyll / GitHub Pages
+theme: minima
+markdown: kramdown
+permalink: /:categories/:title/
+timezone: Asia/Kolkata
+lang: en
+
+# Navigation (use these pages if you create the corresponding files)
+header_pages:
+  - about.md
+  - projects.md
+  - experience.md
+
+# Exclude local development and private files from the published site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - node_modules
+  - README.md
+  - LICENSE
+  - .github
+  - .bundle
+  - .env
+  - .env.*
+  - config/database.yml
+  - tmp
+  - log
